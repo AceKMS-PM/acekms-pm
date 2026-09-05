@@ -25,7 +25,7 @@ Claude Code, Hermes Agent, ZCode) while keeping architecture and choices.
 | Pixel-Mart.bj | Multi-vendor e-commerce, team production platform | Contributor: frontend/backend, testing, bug fixes, deploy |
 | Zeat Platform | SaaS platform, team production | Contributor: frontend/backend, testing, bug fixes, deploy |
 
-## Skills (honest levels)
+## Skills (In learning progress)
 
 - **Stronger:** PHP / Laravel · HTML / CSS / JavaScript · SQL (MySQL, OracleDB, Postgres basics) · Git & GitHub (basic) · Deployment (Hostinger, Netlify)
 - **Learning:** Rust (axum, sqlx, argon2, JWT) · React 18 + TS + Convex · Python / FastAPI + RAG basics · C fundamentals
@@ -34,9 +34,9 @@ Claude Code, Hermes Agent, ZCode) while keeping architecture and choices.
 
 ## Certifications
 
-- Claude AI Fluency · Claude 101 · Claude Code in Action — Anthropic (Mar 2026)
-- Intermediate TypeScript — Codecademy (Mar 2026)
-- Generative AI: An Ally for Cybercriminals (OWASP) — APDP (Dec 2025)
+- Claude AI Fluency · Claude 101 · Claude Code in Action — Anthropic 
+- Intermediate TypeScript — Codecademy 
+- Generative AI: An Ally for Cybercriminals (OWASP) — APDP 
 
 ## Academic
 
@@ -48,4 +48,4 @@ Lsyncd, GNS3 simulations.
 ## Contact
 
 - Email: kurtmerrydegla@gmail.com
-- Portfolio: *(link your Netlify URL here once deployed)*
+- Portfolio: https://kurt-degla-portfolio.netlify.app/
